@@ -1,9 +1,7 @@
 ## POC 
 
-### Universidad
-Universidad Tecnologica Nacional
-### Asignatura
-Seminario
+### Universidad - Asignatura
+Universidad Tecnologica Nacional - Seminario
 
 
 ### Proposito del test

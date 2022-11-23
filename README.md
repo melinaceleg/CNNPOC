@@ -23,9 +23,10 @@ generatedWeights = f"https://github.com/melinaceleg/CNNPOC/raw/main/best.pt"
 !wget --no-cache --backups=1 {generatedWeights}
 image = f"https://github.com/melinaceleg/CNNPOC/raw/main/img.jpg"
 !wget --no-cache --backups=1 {image}
-!python detect.py --source content/img.jpg --weights content/yolov5/poc2classes/exp/weights/best.pt --conf 0.25
+%cd /content/yolov5
+!python detect.py --source content/img.jpg --weights content/best.pt --conf 0.25
 
-%cd yolov5/runs/detect
+%cd /content
 Image('img.jpg')
 ```
 

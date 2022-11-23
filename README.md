@@ -1,5 +1,5 @@
-# CNNPOC
-POC\
+# POC 
+
 Universidad: UTN\
 Asignatura: Seminario
 

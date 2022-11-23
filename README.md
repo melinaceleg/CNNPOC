@@ -11,8 +11,8 @@ Informacion de tecnologia utilizada\
 Red convolucional yolov5 con un modelo preentrenado\
 Se realizo con google colaboratory
 
-Informacion de uso\
-La ejecucion es secuencial indicada en la notebook paso a paso
+Informacion de ejecucion\
+Para probar la ejecucion, es secuencial indicada en la notebook paso a paso
 
 Requerimientos de eficiencia en la identificacion de los objetos\
 Desde 0.6 

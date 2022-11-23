@@ -1,7 +1,7 @@
 # CNNPOC
 POC\
 Universidad: UTN\
-Asignatura: Seminario\
+Asignatura: Seminario
 
 
 Proposito del test\

@@ -5,7 +5,7 @@ Universidad Tecnologica Nacional - Seminario
 
 
 ### Proposito del test
-Comprobar la identificacion de 2 objetos distintos en una imagen en tiempo real
+Comprobar la identificacion de 2 objetos distintos en una imagen
 
 ### Informacion de tecnologia utilizada
 Red convolucional yolov5 con un modelo preentrenado\
